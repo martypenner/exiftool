@@ -29,6 +29,8 @@
 </script>
 
 <div class="h-screen flex flex-col items-center justify-center">
+	<h1 class="mb-12 text-white text-2xl">Scrub image privacy things</h1>
+
 	<form
 		class="mb-12 bg-gray-700 flex items-stretch justify-center text-white border border-gray-600 hover:bg-gray-600 active:bg-gray-500 cursor-pointer w-1/2 h-1/3"
 		method="POST"
